@@ -12,8 +12,11 @@
 3. Just call the get_token() function, it will show the bkash payment UI.
 
 # Don't Forget
-    1. Make sure you save the transaction history(Ex. you may need to refund). So that is why I have a Transaction table here.
-    2. make sure you set these following constants in settings.py. Once you open your merchant account, you will get these credentials.
+    1. Make sure you save the transaction history(Ex. you may need to refund). 
+    So that is why I have a Transaction table here.
+    
+    2. make sure you set these following constants in settings.py. 
+    Once you open your merchant account, you will get these credentials.
 
     BKASH_USERNAME = '*****'
     BKASH_PASSWORD = '******'
