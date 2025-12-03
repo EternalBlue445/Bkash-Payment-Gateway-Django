@@ -9,7 +9,7 @@
 
 1. Create an app(Ex. Payment)
 2. use the urls.py and views.py
-3. Just call the get_token() function, it will show the bkash payment UI.
+3. Just call the get_token() function, it will show the bkash payment UI and it will eventually take you to the next step.
 
 # Don't Forget
     1. Make sure you save the transaction history(Ex. you may need to refund). 
